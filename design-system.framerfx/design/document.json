@@ -1094,7 +1094,7 @@
                 "exportOptions" : [
 
                 ],
-                "fillColor" : "var(--token-e10fc84d-f05a-43b1-a3fc-dcfb01e5bf90, rgb(119, 85, 204)) \/* {\"name\":\"primary\"} *\/",
+                "fillColor" : "var(--token-e10fc84d-f05a-43b1-a3fc-dcfb01e5bf90, rgb(76, 16, 229)) \/* {\"name\":\"primary\"} *\/",
                 "fillEnabled" : true,
                 "fillGradient" : {
                   "__class" : "LinearGradient",
@@ -1602,7 +1602,7 @@
         "__class" : "ColorTokenNode",
         "id" : "e10fc84d-f05a-43b1-a3fc-dcfb01e5bf90",
         "name" : "primary",
-        "value" : "rgb(76, 16, 229)"
+        "value" : "rgb(16, 208, 229)"
       },
       "ef2fa636-c420-4df3-b145-72d3e608a159" : {
         "__class" : "ColorTokenNode",
